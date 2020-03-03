@@ -4,7 +4,7 @@ A simple message board
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will get you up and running on your local machine for development and testing purposes.
 
 ## Features
 
