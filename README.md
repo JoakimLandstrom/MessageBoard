@@ -19,6 +19,13 @@ Endpoints can be found at localhost:5000/swagger
 .net core 3.1
 docker
 ```
+## Building the app
+
+To build the app, execute the command below in the App folder:
+
+```
+dotnet build
+```
 
 ## Running the app
 
