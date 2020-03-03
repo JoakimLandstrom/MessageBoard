@@ -9,16 +9,14 @@ These instructions will get you a copy of the project up and running on your loc
 ## Features
 
 To create/read/update a message to the board you need to have authorization.
-A user will be created for you if you are not an existing user already, credentials are provided as basic auth flow. 
+A user will be created for you if you are not an existing user already, credentials are provided via basic auth flow. 
 
 Endpoints can be found at localhost:5000/swagger
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
 ```
-net core 3.1
+.net core 3.1
 docker
 ```
 
