@@ -13,6 +13,6 @@ namespace App
         private static IHostBuilder CreateHostBuilder()
             => Host.CreateDefaultBuilder()
                 .ConfigureWebHostDefaults(builder =>
-                    builder.UseKestrel().UseUrls("http://*:5000").UseStartup<Startup>());
+                    builder.UseKestrel().UseStartup<Startup>());
     }
 }
