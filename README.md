@@ -40,7 +40,7 @@ docker build -t  app .
 Run the image: 
 
 ```
-docker run -p 80:5000 app:latest
+docker run -p 5000:5000 app:latest
 ```
 
 The app should be available at port: 5000
